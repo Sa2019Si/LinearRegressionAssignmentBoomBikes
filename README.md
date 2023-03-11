@@ -1,0 +1,2 @@
+# LinearRegressionAssignmentBoomBikes
+Linear Regression Assignment on Boombikes Casestudy
